@@ -9,10 +9,9 @@ This is a template fork of the [Hugo starter theme by ericmurphyxyz](https://git
 This repo is set to be a template, which means you can create your own stand-alone repo from this on Github.
 If you would like to do this from the command line interface, then run:
 ```bash
-gh repo create <new-repo-name> -p skullbunnygalaxy/hugo-starter-theme --public --c
-lone
+gh repo create <new-repo-name> -p skullbunnygalaxy/hugo-starter-theme --public
 ```
-Note: `--public` can be replaced by `--private` or `--internal`, and `--clone` creates a copy locally
+Note: `--public` can be replaced by `--private` or `--internal`
 
 Alternatively, copy and remove the git history with [`degit`](https://github.com/Rich-Harris/degit) in one step:
 
