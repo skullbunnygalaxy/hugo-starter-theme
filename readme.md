@@ -2,7 +2,7 @@
 
 Dead-simple Hugo theme with everything you need to get started. Intended to be a starter for creating your own theme without including useless bloat like most Hugo themes.
 
-This is a template fork of the [Hugo starter theme by ericmurphyxyz.](https://github.com/ericmurphyxyz/hugo-starter-theme).
+This is a template fork of the [Hugo starter theme by ericmurphyxyz](https://github.com/ericmurphyxyz/hugo-starter-theme).
 
 ## Getting started
 
