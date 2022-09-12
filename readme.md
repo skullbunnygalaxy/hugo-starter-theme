@@ -22,7 +22,7 @@ npx degit https://github.com/skullbunnygalaxy/hugo-starter-theme themes/<your-th
 If you'd like some example content and an example config file to get started, you can copy the `exampleSite` directory into your root Hugo directory.
 
 ```bash
-cp -r themes/your-theme-name/exampleSite/* ./
+cp -r exampleSite/* ./
 ```
 
 To learn more about building themes in Hugo, refer to Hugo's [templating documentation](https://gohugo.io/templates/).
